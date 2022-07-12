@@ -2,24 +2,8 @@
 自分の興味のままに調べ手を動かし実践する．
 
 ### env.
-MacBook Pro (16-inch,2019) Windows Server 2019 Datacenter/macOS Big sur 11.3.1
-MacBook Pro (Retina, 15-inch, Mid 2015) macOS High Sierra 10.13.6/Windows Server 2022 Datacenter/Linux Mint 20.3
-iMac (21.5-inch, 2017) macOS Mojave 10.14.6/Windows Server 2022
-dynabook GCX83/PLE Windows10 21H1/Windows Server 2022/Windows11 21H2
-iPad Air (3e génération). iPadOS 15.5
-
-
-<!--
-**Ricotan-Linus/Ricotan-Linus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MacBook Pro (16-inch,2019) Windows Server 2019 Datacenter/macOS Big sur 11.3.1<br>
+MacBook Pro (Retina, 15-inch, Mid 2015) macOS High Sierra 10.13.6/Windows Server 2022 Datacenter/Linux Mint 20.3<br>
+iMac (21.5-inch, 2017) macOS Mojave 10.14.6/Windows Server 2022<br>
+dynabook GCX83/PLE Windows10 21H1/Windows Server 2022/Windows11 21H2<br>
+iPad Air (3e génération). iPadOS 15.5<br>

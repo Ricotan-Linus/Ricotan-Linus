@@ -7,3 +7,7 @@ MacBook Pro (Retina, 15-inch, Mid 2015) macOS High Sierra 10.13.6/Windows Server
 iMac (21.5-inch, 2017) macOS Mojave 10.14.6/Windows Server 2022<br>
 dynabook GCX83/PLE Windows10 21H1/Windows Server 2022/Windows11 21H2<br>
 iPad Air (3e génération). iPadOS 15.5<br>
+
+### input method
+Japanese:QWERTY kana input<br>
+English:macOS AZERTY/other QWERTY 

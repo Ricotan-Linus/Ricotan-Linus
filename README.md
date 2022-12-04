@@ -1,5 +1,5 @@
 ### About Me
-自分の興味のままに調べ手を動かし実践するダメ人間．
+clinical depression
 
 ### env.
 MacBook Pro (16-inch,2019) Windows Server 2019 Datacenter/macOS Montrey 12.6<br>
